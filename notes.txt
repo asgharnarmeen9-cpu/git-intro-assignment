@@ -1,3 +1,7 @@
 1. Git is a version control system used to track changes in files.
 2. GitHub is a platform where Git repositories can be stored and shared online.
 3. Git add stages changes, git commit saves those changes in Git history, and git push uploads commits to GitHub.
+
+git add stages the changes so they are ready to be included in a commit.
+git commit saves the staged changes in the local Git history.
+git push uploads the committed changes from the local repository to the remote GitHub repository.

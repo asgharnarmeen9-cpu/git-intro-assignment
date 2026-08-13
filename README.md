@@ -1,1 +1,1 @@
-# git-intro-assignment
+# git-intro-assignment This repository is my assignment for the hands-on workshop on Git and GitHub conducted at UMT. It demonstrates the basic Git and GitHub workflow, including creating a repository, tracking changes, making meaningful commits, and pushing the project to GitHub using HTTPS.
